@@ -1,9 +1,9 @@
 ####
 # Each team's file must define four tokens:
-#     team_name: a string
-#     strategy_name: a string
-#     strategy_description: a string
-#     move: A function that returns 'c' or 'b'
+#     team_name: ABID
+#     strategy_name: copycat
+#     strategy_description: You basically do the same thing the other team does
+#     move:c
 ####
 
 
